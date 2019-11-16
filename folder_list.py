@@ -1,8 +1,6 @@
 import os.path
 
 master_path = 'C:\\VM_Reports\\CTI_WEEKLY_REPORTS\\scheduled\\'
-#master_path = 'C:\\VM_Reports\\CTI_WEEKLY_REPORTS\\2019-11-13\\scheduled-new\\'
-
 
 folder_name = os.listdir(master_path)           # list ltems in folder.
 
